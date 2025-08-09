@@ -1,86 +1,30 @@
-# Data Jobs Dashboard with Power BI
+#Power BI Dashboard Portfolio 📊
+
+A curated collection of my Power BI projects, showcasing my growth from foundational reporting to advanced, interactive analytics.
+Each dashboard transforms raw data into clear, actionable insights — designed with usability, storytelling, and business value in mind.
+
+# Featured Dashboards
+
+Explore the dashboards below. Each has its own dedicated README with more details on the build process and specific features.
+
+## 📉 Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
 
-![Dashboard Page 1](/Images/Project%201%20page%201.png)
+[![Data Jobs Dashboard GIF](/Images/Project%201%20page%201.png)
 
-## Introduction
+A two-page interactive dashboard analyzing the 2024 Data Job Market, tailored for job seekers.
+It combines a high-level market overview with a deep-dive drill-through for specific job titles, covering trends, salaries, and demand.
 
-## Who is this for?
-This dashboard is designed for **job seekers, career switchers, and professionals exploring the data industry. It addresses a common problem: fragmented and confusing job market information.**
+**Key Power BI Skills Utilized:**
+* 🎨 Layout & Design — Clean, business-friendly interface
+* ⚙️ Power Query — ETL, data cleaning, and shaping
+* 🔗 Data Modeling — Table relationships and schema design
+* 🧮 Measures & Aggregations — Implicit measures for KPIs
+* 📊 Data Visualization — Bar, line, column, and area charts
+* 🗺️ Geo Analysis — Map visuals for location-based trends
+* 🔢 KPI Indicators — Cards and tables for quick reference
+* 🖱️ Interactivity — Slicers, filters, and dynamic navigation
+* 🔘 Buttons & Bookmarks — Smooth user navigation
+* ➡️ Drill-Through Pages — Job-specific details and insights
 
-Using a real-world dataset of **2024 data job postings** (titles, salaries, locations, work styles), this project creates a central hub where users can explore hiring trends, compensation benchmarks, and more — all in one place.
-
-## Skills Demonstrated
-
-This project leverages a full range of Power BI capabilities:
-
-- **⚙️ Data Transformation (ETL) with Power Query:** 
-Cleaned and reshaped raw data, handled missing values and incorrect types and created calculated columns for analysis
-
-- **🧮 DAX Measures & KPIs:** Calculated insights like Median Yearly Salary, Job Count, and salary distributions
-
-- **📊 Visual Analytics:** Used Column, Bar, Line, and Area charts to explore trends over time.
-Created slicers, tooltips, bookmarks, and drill-through navigation for interactivity
-
-- **🗺️ Geospatial Visualization:**
-Mapped job locations globally with dynamic filtering
-
-- **📋 Report Elements:**
-Designed cards for KPIs, tables for granular views, and a clean layout optimized for usability
-
--   **🖱️ Interactive Design:**
-- **Slicers:** Filter by job title
-
-- **Buttons & Bookmarks:** Smooth page navigation
-
-- **Drill-throughs:** Navigate from summary to job-specific insights
-
-
-## Dashboard Pages 
-
-### Page 1: Market Overview
-
-![Dashboard Page 1](/Images/Project%201%20page%201.png)
-
-
-This high-level view includes:
-
-- Total job listings
-
-- Median salary distribution
-
-- Top job titles
-
-- Hiring trends across time and regions
-
-Perfect for quick exploration and comparison.
-
-### Page 2: Job Title Drill-Through
-
-![Dashboard Page 1](/Images/Project%201%20page%202.png)
-
-Focused deep-dive into a selected job title, showing:
-
-- Salary range and distribution
-
-- Work-from-home vs. on-site stats
-
-- Top hiring platforms
-
-- Map of job locations
-
-Enables users to research specific career paths in-depth.
-
-## ✅ Conclusion
-
-This project demonstrates how Power BI can turn raw hiring data into a strategic career planning tool.
-
-Whether you're just entering the data field or planning your next move, this dashboard empowers you to:
-
-- Understand compensation benchmarks
-
-- Analyze job market trends
-
-- Explore remote opportunities
-
-- Make data-informed career decisions
+[➡️ **View Full Project 1 Details (README)**](/Data_Jobs_V1/README.md)
