@@ -50,7 +50,7 @@ With refined UX design, advanced data modeling, and high-performance DAX, this v
 * 🎚️ Optimized Filters & Cross-Highlighting — Seamless exploration of data
 * ✨ Performance Tuning — Visual and query optimizations for smooth interaction
 
-[➡️ **View Full Project 1 Details (README)**](/Data_Jobs_V2/README.md)
+[➡️ **View Full Project 2 Details (README)**](/Data_Jobs_V2/README.md)
 
 ## 📁 About This Portfolio
 Every dashboard in this repository has its own dedicated README.md in its folder — detailing project goals, data sources, Power BI techniques used, and behind-the-scenes build notes.
